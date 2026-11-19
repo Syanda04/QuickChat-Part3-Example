@@ -1,0 +1,20 @@
+[
+  {
+    "messageID": "2000000002",
+    "messageNumber": 2,
+    "recipient": "+27838884567",
+    "messageText": "Where are you? You are late! I have asked you to be on time.",
+    "messageHash": "20:2:WHERETIME",
+    "sender": "+27838968976",
+    "status": "Stored"
+  },
+  {
+    "messageID": "2000000005",
+    "messageNumber": 5,
+    "recipient": "+27838884567",
+    "messageText": "Ok, I am leaving without you.",
+    "messageHash": "20:5:OKYOU",
+    "sender": "+27838968976",
+    "status": "Stored"
+  }
+]
